@@ -1,2 +1,4 @@
 # hello-world
-first repository
+first repository.
+My name is Aniket.
+I love coding.
